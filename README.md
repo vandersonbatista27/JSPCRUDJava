@@ -14,7 +14,7 @@ Este projeto é uma aplicação CRUD (Create, Read, Update, Delete) simples cons
 - Java
 - JSP (JavaServer Pages)
 - MySQL
-- Apache Tomcat (ou qualquer outro contêiner de servlets)
+- Apache Tomcat
 
 ## Pré-requisitos
 
@@ -65,29 +65,25 @@ Antes de começar, certifique-se de ter instalado:
 
 ### Adicionar Novo Registro
 
-1. Acesse a página de adição de registros (`add.jsp`).
+1. Acesse a página de adição de registros.
 2. Preencha os campos necessários.
 3. Clique em "Adicionar".
 
 ### Visualizar Registros
 
-1. Acesse a página de visualização de registros (`list.jsp`).
+1. Acesse a página de visualização de registros.
 
 ### Editar Registro
 
-1. Na página de visualização de registros (`list.jsp`), clique em "Editar" no registro desejado.
+1. Na página de visualização de registros, clique em "Editar" no registro desejado.
 2. Faça as alterações necessárias.
 3. Clique em "Atualizar".
 
 ### Excluir Registro
 
-1. Na página de visualização de registros (`list.jsp`), clique em "Excluir" no registro desejado.
+1. Na página de visualização de registros, clique em "Excluir" no registro desejado.
 2. Confirme a exclusão.
 
 ## Contribuição
 
 Sinta-se à vontade para contribuir com o projeto enviando pull requests ou reportando issues.
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.

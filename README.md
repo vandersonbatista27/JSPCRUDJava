@@ -30,8 +30,8 @@ Antes de começar, certifique-se de ter instalado:
 1. **Clone o repositório:**
 
     ```bash
-    git clone https://github.com/seuusuario/crud-java-jsp.git
-    cd crud-java-jsp
+    git clone https://github.com/vandersonbatista27/JSPCRUDJava.git
+    cd JSPCRUDJava
     ```
 
 2. **Configuração do Banco de Dados:**
